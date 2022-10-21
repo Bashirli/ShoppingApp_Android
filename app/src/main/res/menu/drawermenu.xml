@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="HardcodedText"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Ana səhifə">
+        <menu>
+            <group>
+                <item android:title="Ekran" android:id="@+id/anasehife">
+
+                </item>
+            </group>
+        </menu>
+
+    </item>
+
+
+    <item android:title="ForAdmin">
+        <menu>
+            <group>
+<item android:title="Əlavə Et" android:id="@+id/elaveet">
+
+</item>
+            </group>
+        </menu>
+
+    </item>
+    <item android:title="Əsas">
+        <menu>
+            <group>
+                <item android:title="Haqqında" android:id="@+id/haqqinda">
+
+                </item>
+            </group>
+        </menu>
+
+    </item>
+    <item android:title="Son">
+        <menu>
+            <group>
+                <item android:title="Hesabdan çıx" android:id="@+id/hesabdancix">
+
+                </item>
+                <item android:title="Çıxış" android:id="@+id/exit">
+
+                </item>
+            </group>
+        </menu>
+
+    </item>
+
+</menu>
